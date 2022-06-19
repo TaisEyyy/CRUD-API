@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "es5",
+    "lib": ["ES6"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "allowJs": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  },
+  "files": [
+    "src/index.ts",
+  ]
+}
